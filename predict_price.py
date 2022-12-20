@@ -1,21 +1,22 @@
 import matplotlib.pyplot as plt
-
+import tensorflow as tf
+from tensorflow.python.keras.layers import Dense
+from tensorflow.python.keras.layers import Input
+from tensorflow.python.keras.models import Sequential
 import numpy as np
 import sklearn
 
-def compute_cost(x,y,w,b):
+model = Sequential(
+    [               
+        Input(shape=(400,)),
+        Dense(units=25, activation="sigmoid", name="dense"),
+        Dense(units=15, activation="sigmoid", name="dense_1"),
+        Dense(units=1, activation="sigmoid", name = "dense_2")
+    ]
+)             
 
-    m = x.shape[0]
+model.summary()
 
-    total_cost = 0
-
-    for i in range(m):
-        predicted_value = w * x[i] + b
-        cost = (predicted_value - y[i]) ** 2
-        total_cost += cost
-    
-    total_cost = total_cost / (2 * m)
-
-    return total_cost
-
-
+model.compile(
+    loss=tf.keras.losses.BinaryCrossentropy(),
+)
