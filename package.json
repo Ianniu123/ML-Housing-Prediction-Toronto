@@ -1,0 +1,14 @@
+{
+  "name": "ml-housing-prediction-toronto",
+  "version": "1.0.0",
+  "description": "This program roughly predicts the housing prices in Toronto using Gradient Descent and multivariable linear regression\r Implemented using scikit-learn, numpy, matplotlib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.5"
+  }
+}
