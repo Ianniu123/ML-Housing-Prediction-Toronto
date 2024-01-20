@@ -1,0 +1,6152 @@
+[
+  {
+    "": 0,
+    "bathrooms": 7,
+    "bedrooms": 7,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.685574,
+    "longitude": -79.44869,
+    "price": 1849000,
+    "lotAreaValue": 2506.2539
+  },
+  {
+    "": 1,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.618538,
+    "longitude": -79.4851,
+    "price": 585000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 2,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.630337,
+    "longitude": -79.47273,
+    "price": 794500,
+    "lotAreaValue": ""
+  },
+  {
+    "": 3,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.644554,
+    "longitude": -79.421234,
+    "price": 3799000,
+    "lotAreaValue": 2343.75
+  },
+  {
+    "": 4,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.72208,
+    "longitude": -79.543945,
+    "price": 489999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 5,
+    "bathrooms": 11,
+    "bedrooms": 17,
+    "hometype": "MULTI_FAMILY",
+    "latitude": 43.671116,
+    "longitude": -79.298,
+    "price": 9190000,
+    "lotAreaValue": 9375
+  },
+  {
+    "": 6,
+    "bathrooms": 3,
+    "bedrooms": 7,
+    "hometype": "MULTI_FAMILY",
+    "latitude": 43.68964,
+    "longitude": -79.4975,
+    "price": 1300000,
+    "lotAreaValue": 2430
+  },
+  {
+    "": 7,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.641354,
+    "longitude": -79.562775,
+    "price": 920000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 8,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.689766,
+    "longitude": -79.40217,
+    "price": 2480000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 9,
+    "bathrooms": 5,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.819138,
+    "longitude": -79.31484,
+    "price": 1799000,
+    "lotAreaValue": 3443.8866
+  },
+  {
+    "": 10,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.79573,
+    "longitude": -79.31573,
+    "price": 449900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 11,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.641354,
+    "longitude": -79.562775,
+    "price": 869000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 12,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.641243,
+    "longitude": -79.414406,
+    "price": 625000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 13,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.80548,
+    "longitude": -79.35377,
+    "price": 1258800,
+    "lotAreaValue": 3621.792
+  },
+  {
+    "": 14,
+    "bathrooms": 3,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.630337,
+    "longitude": -79.47273,
+    "price": 1998000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 15,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.785908,
+    "longitude": -79.289856,
+    "price": 659900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 16,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.733253,
+    "longitude": -79.446014,
+    "price": 619000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 17,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.78688,
+    "longitude": -79.41689,
+    "price": 628800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 18,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.740665,
+    "longitude": -79.23514,
+    "price": 479800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 19,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.64608,
+    "longitude": -79.391235,
+    "price": 886500,
+    "lotAreaValue": ""
+  },
+  {
+    "": 20,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.661762,
+    "longitude": -79.38363,
+    "price": 829000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 21,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.760143,
+    "longitude": -79.408875,
+    "price": 759900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 22,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.7525,
+    "longitude": -79.33254,
+    "price": 600000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 23,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.772797,
+    "longitude": -79.34539,
+    "price": 699000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 24,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.655772999999996,
+    "longitude": -79.37599,
+    "price": 899000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 25,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.72894,
+    "longitude": -79.345505,
+    "price": 995000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 26,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.65698,
+    "longitude": -79.355415,
+    "price": 599000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 27,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.725807,
+    "longitude": -79.480606,
+    "price": 449000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 28,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64684,
+    "longitude": -79.39027,
+    "price": 749900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 29,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.733913,
+    "longitude": -79.44845,
+    "price": 589000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 30,
+    "bathrooms": 4,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.830193,
+    "longitude": -79.27705,
+    "price": 999000,
+    "lotAreaValue": 3600.948
+  },
+  {
+    "": 31,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.82384,
+    "longitude": -79.26657,
+    "price": 998800,
+    "lotAreaValue": 2734.6
+  },
+  {
+    "": 32,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.685173,
+    "longitude": -79.51599,
+    "price": 879000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 33,
+    "bathrooms": 2,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.69906,
+    "longitude": -79.44359,
+    "price": 1249000,
+    "lotAreaValue": 2750
+  },
+  {
+    "": 34,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.669987,
+    "longitude": -79.58003,
+    "price": 1048800,
+    "lotAreaValue": 6750
+  },
+  {
+    "": 35,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.785404,
+    "longitude": -79.41623,
+    "price": 898888,
+    "lotAreaValue": ""
+  },
+  {
+    "": 36,
+    "bathrooms": 7,
+    "bedrooms": 8,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.75427,
+    "longitude": -79.45246,
+    "price": 2999900,
+    "lotAreaValue": 10221.1105
+  },
+  {
+    "": 37,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.670265,
+    "longitude": -79.394356,
+    "price": 575000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 38,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.731857,
+    "longitude": -79.57696,
+    "price": 469000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 39,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.767647,
+    "longitude": -79.382126,
+    "price": 529000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 40,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.736553,
+    "longitude": -79.483246,
+    "price": 539000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 41,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.748337,
+    "longitude": -79.56748,
+    "price": 519900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 42,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.736107,
+    "longitude": -79.47886,
+    "price": 849999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 43,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.635864,
+    "longitude": -79.46739,
+    "price": 759000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 44,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.725285,
+    "longitude": -79.47877,
+    "price": 699900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 45,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.768177,
+    "longitude": -79.41177,
+    "price": 599000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 46,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64671,
+    "longitude": -79.40176,
+    "price": 998800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 47,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.655704,
+    "longitude": -79.376495,
+    "price": 919999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 48,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.644737,
+    "longitude": -79.37184,
+    "price": 1900000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 49,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.769478,
+    "longitude": -79.283455,
+    "price": 395900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 50,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.635864,
+    "longitude": -79.46739,
+    "price": 1150000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 51,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.639343,
+    "longitude": -79.39297,
+    "price": 744000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 52,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.675602,
+    "longitude": -79.39788,
+    "price": 818990,
+    "lotAreaValue": ""
+  },
+  {
+    "": 53,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.6439,
+    "longitude": -79.39948,
+    "price": 749000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 54,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.790024,
+    "longitude": -79.25466,
+    "price": 599000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 55,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.780315,
+    "longitude": -79.341995,
+    "price": 559000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 56,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.664803,
+    "longitude": -79.38696,
+    "price": 719990,
+    "lotAreaValue": ""
+  },
+  {
+    "": 57,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.806667,
+    "longitude": -79.33489,
+    "price": 899000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 58,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.668064,
+    "longitude": -79.56183,
+    "price": 1299000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 59,
+    "bathrooms": 2,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.72208,
+    "longitude": -79.57129,
+    "price": 999000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 60,
+    "bathrooms": 4,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.70748,
+    "longitude": -79.461754,
+    "price": 1288800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 61,
+    "bathrooms": 2,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.761753,
+    "longitude": -79.52316,
+    "price": 959000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 62,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.75972,
+    "longitude": -79.50086,
+    "price": 1249000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 63,
+    "bathrooms": 2,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.708633,
+    "longitude": -79.29939,
+    "price": 699999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 64,
+    "bathrooms": 5,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.824265,
+    "longitude": -79.227905,
+    "price": 1399999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 65,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.771606,
+    "longitude": -79.30251,
+    "price": 959000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 66,
+    "bathrooms": 4,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.787758,
+    "longitude": -79.34526,
+    "price": 1475000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 67,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.685905,
+    "longitude": -79.2858,
+    "price": 949900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 68,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.794254,
+    "longitude": -79.14535,
+    "price": 999000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 69,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.687584,
+    "longitude": -79.438065,
+    "price": 1088000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 70,
+    "bathrooms": 2,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.70866,
+    "longitude": -79.29937,
+    "price": 699999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 71,
+    "bathrooms": 4,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.78164,
+    "longitude": -79.406,
+    "price": 1588000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 72,
+    "bathrooms": 4,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.76504,
+    "longitude": -79.45697,
+    "price": 1349000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 73,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.7972,
+    "longitude": -79.39912,
+    "price": 1987000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 74,
+    "bathrooms": 4,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.79244,
+    "longitude": -79.142525,
+    "price": 1099000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 75,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.692654,
+    "longitude": -79.33829,
+    "price": 1340000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 76,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.822945,
+    "longitude": -79.27499,
+    "price": 697900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 77,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.645523,
+    "longitude": -79.39057,
+    "price": 775000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 78,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.7563,
+    "longitude": -79.40839,
+    "price": 727000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 79,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.741825,
+    "longitude": -79.23443,
+    "price": 949898,
+    "lotAreaValue": 4532.064
+  },
+  {
+    "": 80,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.775063,
+    "longitude": -79.34579,
+    "price": 893000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 81,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64242,
+    "longitude": -79.37558,
+    "price": 799000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 82,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.719173,
+    "longitude": -79.326385,
+    "price": 669900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 83,
+    "bathrooms": 7,
+    "bedrooms": 8,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.73556,
+    "longitude": -79.2767,
+    "price": 1999000,
+    "lotAreaValue": 7532.9998
+  },
+  {
+    "": 84,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.640427,
+    "longitude": -79.42465,
+    "price": 488800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 85,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.673553,
+    "longitude": -79.46187,
+    "price": 815000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 86,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.75108,
+    "longitude": -79.46573,
+    "price": 529000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 87,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.63486,
+    "longitude": -79.5395,
+    "price": 579000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 88,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.735962,
+    "longitude": -79.48376,
+    "price": 599999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 89,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.660072,
+    "longitude": -79.51641,
+    "price": 719000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 90,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "CONDO",
+    "latitude": 43.656265,
+    "longitude": -79.570786,
+    "price": 699000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 91,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.732384,
+    "longitude": -79.44663,
+    "price": 439000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 92,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.788853,
+    "longitude": -79.41838,
+    "price": 619000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 93,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.669605,
+    "longitude": -79.3917,
+    "price": 880000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 94,
+    "bathrooms": 2,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.770374,
+    "longitude": -79.26186,
+    "price": 598900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 95,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.638832,
+    "longitude": -79.398834,
+    "price": 615000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 96,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.652016,
+    "longitude": -79.45152,
+    "price": 1399900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 97,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.67265,
+    "longitude": -79.38873,
+    "price": 670000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 98,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.637897,
+    "longitude": -79.4154,
+    "price": 870000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 99,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.666862,
+    "longitude": -79.38657,
+    "price": 1200000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 100,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.64653,
+    "longitude": -79.423256,
+    "price": 674900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 101,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.647526,
+    "longitude": -79.39966,
+    "price": 768900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 102,
+    "bathrooms": 3,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.696514,
+    "longitude": -79.395454,
+    "price": 925118,
+    "lotAreaValue": ""
+  },
+  {
+    "": 103,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.779655,
+    "longitude": -79.28293,
+    "price": 658000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 104,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.630337,
+    "longitude": -79.47273,
+    "price": 1290000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 105,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64202,
+    "longitude": -79.37335,
+    "price": 938000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 106,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.64818,
+    "longitude": -79.41984,
+    "price": 899000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 107,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.635864,
+    "longitude": -79.46739,
+    "price": 575000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 108,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.66138,
+    "longitude": -79.35923,
+    "price": 599900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 109,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64174,
+    "longitude": -79.42332,
+    "price": 599999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 110,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.673717,
+    "longitude": -79.32208,
+    "price": 935000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 111,
+    "bathrooms": 5,
+    "bedrooms": 8,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.81336,
+    "longitude": -79.20003,
+    "price": 1499000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 112,
+    "bathrooms": 4,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.643085,
+    "longitude": -79.41495,
+    "price": 1550000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 113,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.72227,
+    "longitude": -79.4039,
+    "price": 2449000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 114,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.66915,
+    "longitude": -79.41617,
+    "price": 1198000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 115,
+    "bathrooms": 1,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.741184,
+    "longitude": -79.40251,
+    "price": 3995000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 116,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.62921,
+    "longitude": -79.49239,
+    "price": 1499900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 117,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.73598,
+    "longitude": -79.47654,
+    "price": 929888,
+    "lotAreaValue": ""
+  },
+  {
+    "": 118,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.782696,
+    "longitude": -79.33341,
+    "price": 1288000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 119,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.723602,
+    "longitude": -79.44601,
+    "price": 459900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 120,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.757656,
+    "longitude": -79.40901,
+    "price": 599999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 121,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.706955,
+    "longitude": -79.39502,
+    "price": 648000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 122,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.654835,
+    "longitude": -79.3752,
+    "price": 830000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 123,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.636158,
+    "longitude": -79.47062,
+    "price": 649000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 124,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.77858,
+    "longitude": -79.28117,
+    "price": 628000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 125,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.685810000000004,
+    "longitude": -79.43385,
+    "price": 1349000,
+    "lotAreaValue": 1850
+  },
+  {
+    "": 126,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64818,
+    "longitude": -79.487434,
+    "price": 789000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 127,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.717293,
+    "longitude": -79.44185,
+    "price": 619900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 128,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.633453,
+    "longitude": -79.541626,
+    "price": 869000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 129,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.78053,
+    "longitude": -79.341385,
+    "price": 579000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 130,
+    "bathrooms": 4,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.82231,
+    "longitude": -79.265465,
+    "price": 1399000,
+    "lotAreaValue": 5570.072
+  },
+  {
+    "": 131,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.799667,
+    "longitude": -79.31624,
+    "price": 664900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 132,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.674007,
+    "longitude": -79.41243,
+    "price": 1800000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 133,
+    "bathrooms": 4,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.694363,
+    "longitude": -79.27001,
+    "price": 1949900,
+    "lotAreaValue": 3900
+  },
+  {
+    "": 134,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.715252,
+    "longitude": -79.45464,
+    "price": 549900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 135,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.663635,
+    "longitude": -79.46686,
+    "price": 549900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 136,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "CONDO",
+    "latitude": 43.727715,
+    "longitude": -79.48259,
+    "price": 620000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 137,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.65801,
+    "longitude": -79.50318,
+    "price": 788000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 138,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.721195,
+    "longitude": -79.54413,
+    "price": 479900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 139,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.736553,
+    "longitude": -79.483246,
+    "price": 499999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 140,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.64818,
+    "longitude": -79.487434,
+    "price": 699000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 141,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.639263,
+    "longitude": -79.55962,
+    "price": 689000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 142,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.673553,
+    "longitude": -79.46187,
+    "price": 559900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 143,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.623516,
+    "longitude": -79.47929,
+    "price": 645000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 144,
+    "bathrooms": 3,
+    "bedrooms": 2,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.59479,
+    "longitude": -79.53446,
+    "price": 895000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 145,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.645073,
+    "longitude": -79.39087,
+    "price": 579900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 146,
+    "bathrooms": 4,
+    "bedrooms": 4,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.785473,
+    "longitude": -79.20589,
+    "price": 699999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 147,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.764503,
+    "longitude": -79.288475,
+    "price": 599900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 148,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.65398,
+    "longitude": -79.38852,
+    "price": 649800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 149,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.712036,
+    "longitude": -79.376755,
+    "price": 575000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 150,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.718346,
+    "longitude": -79.375206,
+    "price": 1450000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 151,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.6595,
+    "longitude": -79.38478,
+    "price": 749000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 152,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.76485,
+    "longitude": -79.39425,
+    "price": 1328000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 153,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.651527,
+    "longitude": -79.375755,
+    "price": 579000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 154,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.652763,
+    "longitude": -79.36657,
+    "price": 619000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 155,
+    "bathrooms": 3,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.696514,
+    "longitude": -79.395454,
+    "price": 799000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 156,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.71259,
+    "longitude": -79.37768,
+    "price": 999999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 157,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.65222,
+    "longitude": -79.37087,
+    "price": 610000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 158,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.65191,
+    "longitude": -79.37709,
+    "price": 999999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 159,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.704517,
+    "longitude": -79.251755,
+    "price": 599900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 160,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.657516,
+    "longitude": -79.37677,
+    "price": 489000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 161,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.641933,
+    "longitude": -79.381546,
+    "price": 929900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 162,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.7815,
+    "longitude": -79.413055,
+    "price": 718000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 163,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.650116,
+    "longitude": -79.35793,
+    "price": 599000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 164,
+    "bathrooms": 1,
+    "bedrooms": 0,
+    "hometype": "CONDO",
+    "latitude": 43.668797,
+    "longitude": -79.38397,
+    "price": 499000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 165,
+    "bathrooms": 0,
+    "bedrooms": "",
+    "hometype": "CONDO",
+    "latitude": 43.64896,
+    "longitude": -79.39258,
+    "price": 90000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 166,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.63837,
+    "longitude": -79.3987,
+    "price": 618000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 167,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.654842,
+    "longitude": -79.38468,
+    "price": 745000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 168,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.66285,
+    "longitude": -79.37627,
+    "price": 1189000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 169,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.654835,
+    "longitude": -79.3752,
+    "price": 699000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 170,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.75025,
+    "longitude": -79.40723,
+    "price": 1049000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 171,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.810165,
+    "longitude": -79.22112,
+    "price": 539900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 172,
+    "bathrooms": 3,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.794403,
+    "longitude": -79.37282,
+    "price": 799000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 173,
+    "bathrooms": 4,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.798244,
+    "longitude": -79.3004,
+    "price": 1288000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 174,
+    "bathrooms": 6,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.65046,
+    "longitude": -79.50192,
+    "price": 4250000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 175,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.775063,
+    "longitude": -79.4033,
+    "price": 1799900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 176,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.749233,
+    "longitude": -79.19261,
+    "price": 1079000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 177,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.736492,
+    "longitude": -79.20817,
+    "price": 1199000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 178,
+    "bathrooms": 4,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.702545,
+    "longitude": -79.39139,
+    "price": 3988800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 179,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.66868,
+    "longitude": -79.548874,
+    "price": 1799000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 180,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.664806,
+    "longitude": -79.371254,
+    "price": 1697800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 181,
+    "bathrooms": 4,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.73978,
+    "longitude": -79.38892,
+    "price": 5995000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 182,
+    "bathrooms": 5,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.69722,
+    "longitude": -79.3166,
+    "price": 2148000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 183,
+    "bathrooms": 8,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.61597,
+    "longitude": -79.50393,
+    "price": 3479000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 184,
+    "bathrooms": 3,
+    "bedrooms": 7,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.726820000000004,
+    "longitude": -79.23483,
+    "price": 1199900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 185,
+    "bathrooms": 5,
+    "bedrooms": 7,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.736042,
+    "longitude": -79.22376,
+    "price": 2699990,
+    "lotAreaValue": ""
+  },
+  {
+    "": 186,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.781647,
+    "longitude": -79.24493,
+    "price": 499000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 187,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.679985,
+    "longitude": -79.2904,
+    "price": 799000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 188,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.66295,
+    "longitude": -79.38631,
+    "price": 718000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 189,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.638798,
+    "longitude": -79.415504,
+    "price": 599000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 190,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.650475,
+    "longitude": -79.368515,
+    "price": 729000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 191,
+    "bathrooms": 1,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.648884,
+    "longitude": -79.36522,
+    "price": 684900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 192,
+    "bathrooms": 9,
+    "bedrooms": 9,
+    "hometype": "MULTI_FAMILY",
+    "latitude": 43.67192,
+    "longitude": -79.404366,
+    "price": 2795000,
+    "lotAreaValue": 3402
+  },
+  {
+    "": 193,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.6427,
+    "longitude": -79.393364,
+    "price": 726000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 194,
+    "bathrooms": 4,
+    "bedrooms": 9,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.668472,
+    "longitude": -79.40424,
+    "price": 2695000,
+    "lotAreaValue": 3987.1
+  },
+  {
+    "": 195,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.776382,
+    "longitude": -79.415764,
+    "price": 1149000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 196,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.650455,
+    "longitude": -79.56664,
+    "price": 849000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 197,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.714893000000004,
+    "longitude": -79.39229,
+    "price": 2666000,
+    "lotAreaValue": 2172.17
+  },
+  {
+    "": 198,
+    "bathrooms": 4,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.78778,
+    "longitude": -79.454834,
+    "price": 1895000,
+    "lotAreaValue": 6776
+  },
+  {
+    "": 199,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.80687,
+    "longitude": -79.265305,
+    "price": 599000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 200,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.623604,
+    "longitude": -79.48415,
+    "price": 559999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 201,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.764465,
+    "longitude": -79.40913,
+    "price": 1598000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 202,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.777256,
+    "longitude": -79.28412,
+    "price": 660000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 203,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.609207,
+    "longitude": -79.558334,
+    "price": 749900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 204,
+    "bathrooms": 4,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.6595,
+    "longitude": -79.38478,
+    "price": 3299000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 205,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.67612,
+    "longitude": -79.32306,
+    "price": 1628000,
+    "lotAreaValue": 1900.05
+  },
+  {
+    "": 206,
+    "bathrooms": 4,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.73321,
+    "longitude": -79.42474,
+    "price": 2790000,
+    "lotAreaValue": 3836.3541
+  },
+  {
+    "": 207,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.640682,
+    "longitude": -79.377,
+    "price": 849000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 208,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.767216,
+    "longitude": -79.38171,
+    "price": 648800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 209,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.67174,
+    "longitude": -79.3878,
+    "price": 869900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 210,
+    "bathrooms": 2,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.671318,
+    "longitude": -79.33633,
+    "price": 1099900,
+    "lotAreaValue": 1037.5
+  },
+  {
+    "": 211,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.72315,
+    "longitude": -79.44823,
+    "price": 525000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 212,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.687042,
+    "longitude": -79.27247,
+    "price": 744999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 213,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.623886,
+    "longitude": -79.479225,
+    "price": 659990,
+    "lotAreaValue": ""
+  },
+  {
+    "": 214,
+    "bathrooms": 4,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.81777,
+    "longitude": -79.2142,
+    "price": 999900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 215,
+    "bathrooms": 5,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.62801,
+    "longitude": -79.50854,
+    "price": 2449000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 216,
+    "bathrooms": 5,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.688602,
+    "longitude": -79.26828,
+    "price": 2089000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 217,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.64105,
+    "longitude": -79.57982,
+    "price": 899900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 218,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.781147,
+    "longitude": -79.2455,
+    "price": 648000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 219,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.76482,
+    "longitude": -79.410446,
+    "price": 598000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 220,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.637184,
+    "longitude": -79.39616,
+    "price": 668000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 221,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.758633,
+    "longitude": -79.587585,
+    "price": 591000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 222,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.668797,
+    "longitude": -79.38397,
+    "price": 599900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 223,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.7734,
+    "longitude": -79.25586,
+    "price": 699000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 224,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.641354,
+    "longitude": -79.562775,
+    "price": 829000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 225,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.785404,
+    "longitude": -79.41623,
+    "price": 650000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 226,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.650475,
+    "longitude": -79.410805,
+    "price": 1638000,
+    "lotAreaValue": 929.4
+  },
+  {
+    "": 227,
+    "bathrooms": 5,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.691486,
+    "longitude": -79.436134,
+    "price": 2262150,
+    "lotAreaValue": 3643.75
+  },
+  {
+    "": 228,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.62495,
+    "longitude": -79.47824,
+    "price": 654900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 229,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.644672,
+    "longitude": -79.5294,
+    "price": 549000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 230,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.695786,
+    "longitude": -79.553154,
+    "price": 429900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 231,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.752064,
+    "longitude": -79.464264,
+    "price": 519000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 232,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.626324,
+    "longitude": -79.477234,
+    "price": 610000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 233,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.646324,
+    "longitude": -79.52136,
+    "price": 928000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 234,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.660976,
+    "longitude": -79.51245,
+    "price": 979900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 235,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.670486,
+    "longitude": -79.384575,
+    "price": 624900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 236,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.696835,
+    "longitude": -79.39399,
+    "price": 959900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 237,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.73306,
+    "longitude": -79.34621,
+    "price": 1199999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 238,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.790318,
+    "longitude": -79.35738,
+    "price": 649000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 239,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.671093,
+    "longitude": -79.38777,
+    "price": 1200000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 240,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.64971,
+    "longitude": -79.3613,
+    "price": 1025000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 241,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.730564,
+    "longitude": -79.4321,
+    "price": 419900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 242,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.77626,
+    "longitude": -79.366165,
+    "price": 750000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 243,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.63848,
+    "longitude": -79.42747,
+    "price": 799000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 244,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64768,
+    "longitude": -79.39692,
+    "price": 820000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 245,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.77366,
+    "longitude": -79.249855,
+    "price": 499900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 246,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.708767,
+    "longitude": -79.3938,
+    "price": 1098000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 247,
+    "bathrooms": 3,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.671818,
+    "longitude": -79.372406,
+    "price": 1455000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 248,
+    "bathrooms": 2,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.78053,
+    "longitude": -79.341385,
+    "price": 638000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 249,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.72016,
+    "longitude": -79.33666,
+    "price": 649000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 250,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.67654,
+    "longitude": -79.40561,
+    "price": 655000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 251,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.645958,
+    "longitude": -79.38987,
+    "price": 616000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 252,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.638138,
+    "longitude": -79.420845,
+    "price": 639900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 253,
+    "bathrooms": 3,
+    "bedrooms": 2,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.765724,
+    "longitude": -79.38346,
+    "price": 1295000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 254,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.72208,
+    "longitude": -79.543945,
+    "price": 439900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 255,
+    "bathrooms": 3,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.649273,
+    "longitude": -79.37469,
+    "price": 2149000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 256,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.60133,
+    "longitude": -79.54553,
+    "price": 629900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 257,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.687916,
+    "longitude": -79.39619,
+    "price": 888000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 258,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.647194,
+    "longitude": -79.397865,
+    "price": 1450000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 259,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.641933,
+    "longitude": -79.381546,
+    "price": 749000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 260,
+    "bathrooms": 0,
+    "bedrooms": "",
+    "hometype": "MULTI_FAMILY",
+    "latitude": 43.67858,
+    "longitude": -79.30083,
+    "price": 7000000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 261,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.790066,
+    "longitude": -79.34076,
+    "price": 1099000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 262,
+    "bathrooms": 10,
+    "bedrooms": 2,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.66711,
+    "longitude": -79.38487,
+    "price": 8495000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 263,
+    "bathrooms": 5,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.727406,
+    "longitude": -79.4128,
+    "price": 3850000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 264,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.75685,
+    "longitude": -79.594345,
+    "price": 1149000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 265,
+    "bathrooms": 3,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.74417,
+    "longitude": -79.22623,
+    "price": 949000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 266,
+    "bathrooms": 4,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.798615,
+    "longitude": -79.29027,
+    "price": 899000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 267,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.73639,
+    "longitude": -79.510216,
+    "price": 975000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 268,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.70852,
+    "longitude": -79.385666,
+    "price": 1735000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 269,
+    "bathrooms": 9,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.73962,
+    "longitude": -79.369,
+    "price": 7995000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 270,
+    "bathrooms": 4,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.747017,
+    "longitude": -79.211266,
+    "price": 998000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 271,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.689594,
+    "longitude": -79.27141,
+    "price": 849000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 272,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.650654,
+    "longitude": -79.53805,
+    "price": 1599900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 273,
+    "bathrooms": 3,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.68958,
+    "longitude": -79.43475,
+    "price": 1150000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 274,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.720566,
+    "longitude": -79.52908,
+    "price": 1295000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 275,
+    "bathrooms": 3,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.774937,
+    "longitude": -79.38526,
+    "price": 2688888,
+    "lotAreaValue": ""
+  },
+  {
+    "": 276,
+    "bathrooms": 4,
+    "bedrooms": 8,
+    "hometype": "MULTI_FAMILY",
+    "latitude": 43.67858,
+    "longitude": -79.30083,
+    "price": 3500000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 277,
+    "bathrooms": 4,
+    "bedrooms": 8,
+    "hometype": "MULTI_FAMILY",
+    "latitude": 43.678528,
+    "longitude": -79.30098,
+    "price": 3500000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 278,
+    "bathrooms": 6,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.678276,
+    "longitude": -79.38134,
+    "price": 9995000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 279,
+    "bathrooms": 3,
+    "bedrooms": 2,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.678276,
+    "longitude": -79.38134,
+    "price": 2500000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 280,
+    "bathrooms": 3,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.757187,
+    "longitude": -79.17449,
+    "price": 1099000,
+    "lotAreaValue": 7241.5
+  },
+  {
+    "": 281,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.62474,
+    "longitude": -79.478966,
+    "price": 725000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 282,
+    "bathrooms": 2,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.68665,
+    "longitude": -79.39951,
+    "price": 899000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 283,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "CONDO",
+    "latitude": 43.729725,
+    "longitude": -79.441956,
+    "price": 599900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 284,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64265,
+    "longitude": -79.37733,
+    "price": 669000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 285,
+    "bathrooms": 6,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.6465,
+    "longitude": -79.50899,
+    "price": 2600000,
+    "lotAreaValue": 4000
+  },
+  {
+    "": 286,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.652508,
+    "longitude": -79.38858,
+    "price": 639000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 287,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.645523,
+    "longitude": -79.39057,
+    "price": 675000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 288,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.62386,
+    "longitude": -79.488945,
+    "price": 749000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 289,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.640064,
+    "longitude": -79.378494,
+    "price": 2750000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 290,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.622257,
+    "longitude": -79.48256,
+    "price": 548000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 291,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.669888,
+    "longitude": -79.39098,
+    "price": 1398000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 292,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.666687,
+    "longitude": -79.37489,
+    "price": 574900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 293,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.62474,
+    "longitude": -79.478966,
+    "price": 678800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 294,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "CONDO",
+    "latitude": 43.655693,
+    "longitude": -79.57109,
+    "price": 699500,
+    "lotAreaValue": ""
+  },
+  {
+    "": 295,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.66503,
+    "longitude": -79.447586,
+    "price": 499999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 296,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.72241,
+    "longitude": -79.43166,
+    "price": 510000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 297,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.664238,
+    "longitude": -79.37554,
+    "price": 619000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 298,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.639755,
+    "longitude": -79.41307,
+    "price": 699000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 299,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.680843,
+    "longitude": -79.28265,
+    "price": 835000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 300,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.649345,
+    "longitude": -79.3758,
+    "price": 689800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 301,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.657475,
+    "longitude": -79.44567,
+    "price": 675000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 302,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.656265,
+    "longitude": -79.570786,
+    "price": 685000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 303,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.722935,
+    "longitude": -79.41387,
+    "price": 1144800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 304,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.733913,
+    "longitude": -79.44845,
+    "price": 609000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 305,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.63531,
+    "longitude": -79.402084,
+    "price": 710000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 306,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.658474,
+    "longitude": -79.3511,
+    "price": 675000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 307,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.653343,
+    "longitude": -79.37937,
+    "price": 719990,
+    "lotAreaValue": ""
+  },
+  {
+    "": 308,
+    "bathrooms": 1,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.737667,
+    "longitude": -79.26957,
+    "price": 499900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 309,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.684994,
+    "longitude": -79.2754,
+    "price": 929900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 310,
+    "bathrooms": 3,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.724197,
+    "longitude": -79.41689,
+    "price": 2099000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 311,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.646156,
+    "longitude": -79.376274,
+    "price": 749900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 312,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.695786,
+    "longitude": -79.553154,
+    "price": 440000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 313,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.64905,
+    "longitude": -79.386154,
+    "price": 1080000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 314,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.65034,
+    "longitude": -79.44442,
+    "price": 839000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 315,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.719334,
+    "longitude": -79.33631,
+    "price": 699000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 316,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.73276,
+    "longitude": -79.34566,
+    "price": 609000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 317,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.74993,
+    "longitude": -79.205,
+    "price": 700000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 318,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.730694,
+    "longitude": -79.46565,
+    "price": 549000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 319,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.66873,
+    "longitude": -79.38949,
+    "price": 2349000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 320,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64172,
+    "longitude": -79.3815,
+    "price": 649999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 321,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.702187,
+    "longitude": -79.44082,
+    "price": 684900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 322,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.6693,
+    "longitude": -79.38417,
+    "price": 779000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 323,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.763767,
+    "longitude": -79.49828,
+    "price": 619000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 324,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64265,
+    "longitude": -79.37733,
+    "price": 599000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 325,
+    "bathrooms": 3,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64978,
+    "longitude": -79.38044,
+    "price": 2789000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 326,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.665268,
+    "longitude": -79.341034,
+    "price": 869000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 327,
+    "bathrooms": 4,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.659397,
+    "longitude": -79.5076,
+    "price": 2495000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 328,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.64974,
+    "longitude": -79.47648,
+    "price": 1799000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 329,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.657536,
+    "longitude": -79.53466,
+    "price": 2399900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 330,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.598938,
+    "longitude": -79.52675,
+    "price": 1299900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 331,
+    "bathrooms": 4,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.72672,
+    "longitude": -79.520386,
+    "price": 1399900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 332,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.660812,
+    "longitude": -79.33608,
+    "price": 1395000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 333,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.746273,
+    "longitude": -79.23604,
+    "price": 959000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 334,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.66264,
+    "longitude": -79.33202,
+    "price": 1228000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 335,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.801487,
+    "longitude": -79.259865,
+    "price": 1050000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 336,
+    "bathrooms": 5,
+    "bedrooms": 9,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.67723,
+    "longitude": -79.403305,
+    "price": 2995000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 337,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.808556,
+    "longitude": -79.18043,
+    "price": 999000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 338,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.688103,
+    "longitude": -79.55136,
+    "price": 1049000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 339,
+    "bathrooms": 4,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.81147,
+    "longitude": -79.28379,
+    "price": 1179000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 340,
+    "bathrooms": 2,
+    "bedrooms": 7,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.70201,
+    "longitude": -79.2846,
+    "price": 1489000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 341,
+    "bathrooms": 5,
+    "bedrooms": 8,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.825497,
+    "longitude": -79.29668,
+    "price": 1369900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 342,
+    "bathrooms": 4,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.688313,
+    "longitude": -79.37179,
+    "price": 2528000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 343,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.764812,
+    "longitude": -79.36684,
+    "price": 1199000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 344,
+    "bathrooms": 3,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.792667,
+    "longitude": -79.41252,
+    "price": 1888000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 345,
+    "bathrooms": 4,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.68407,
+    "longitude": -79.28165,
+    "price": 3279000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 346,
+    "bathrooms": 2,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.75114,
+    "longitude": -79.23136,
+    "price": 1299000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 347,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.70495,
+    "longitude": -79.38079,
+    "price": 1739000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 348,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.65647,
+    "longitude": -79.35991,
+    "price": 1350000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 349,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.651646,
+    "longitude": -79.36944,
+    "price": 925000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 350,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.713596,
+    "longitude": -79.38909,
+    "price": 1888000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 351,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.73991,
+    "longitude": -79.54102,
+    "price": 1149900,
+    "lotAreaValue": 4062.5
+  },
+  {
+    "": 352,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.743717,
+    "longitude": -79.24567,
+    "price": 635900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 353,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.67673,
+    "longitude": -79.46253,
+    "price": 859000,
+    "lotAreaValue": 2112.25
+  },
+  {
+    "": 354,
+    "bathrooms": 1,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.664448,
+    "longitude": -79.36113,
+    "price": 1200000,
+    "lotAreaValue": 1210.17
+  },
+  {
+    "": 355,
+    "bathrooms": 4,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.79156,
+    "longitude": -79.15889,
+    "price": 1600000,
+    "lotAreaValue": 0.40418250688705204
+  },
+  {
+    "": 356,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.65524,
+    "longitude": -79.39033,
+    "price": 1139000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 357,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.769127,
+    "longitude": -79.24017,
+    "price": 1125000,
+    "lotAreaValue": 6908.97
+  },
+  {
+    "": 358,
+    "bathrooms": 4,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.73126,
+    "longitude": -79.431656,
+    "price": 1998000,
+    "lotAreaValue": 3250
+  },
+  {
+    "": 359,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.687927,
+    "longitude": -79.38919,
+    "price": 1399000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 360,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.655136,
+    "longitude": -79.40002,
+    "price": 735000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 361,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.646446,
+    "longitude": -79.52575,
+    "price": 725000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 362,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.72241,
+    "longitude": -79.43166,
+    "price": 525000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 363,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.62908,
+    "longitude": -79.57277,
+    "price": 1799000,
+    "lotAreaValue": 7200
+  },
+  {
+    "": 364,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.70953,
+    "longitude": -79.398224,
+    "price": 545000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 365,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.746403,
+    "longitude": -79.22459,
+    "price": 999000,
+    "lotAreaValue": 5236
+  },
+  {
+    "": 366,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.67174,
+    "longitude": -79.3878,
+    "price": 677888,
+    "lotAreaValue": ""
+  },
+  {
+    "": 367,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.75994,
+    "longitude": -79.41539,
+    "price": 1699000,
+    "lotAreaValue": 5505.5
+  },
+  {
+    "": 368,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.668896,
+    "longitude": -79.34528,
+    "price": 1650000,
+    "lotAreaValue": 1728
+  },
+  {
+    "": 369,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.645775,
+    "longitude": -79.38968,
+    "price": 699900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 370,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.65927,
+    "longitude": -79.38492,
+    "price": 929900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 371,
+    "bathrooms": 4,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.64494,
+    "longitude": -79.36367,
+    "price": 3850000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 372,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.66986,
+    "longitude": -79.466194,
+    "price": 899000,
+    "lotAreaValue": 2084.4
+  },
+  {
+    "": 373,
+    "bathrooms": 4,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.665363,
+    "longitude": -79.41672,
+    "price": 1788800,
+    "lotAreaValue": 2483.2
+  },
+  {
+    "": 374,
+    "bathrooms": 9,
+    "bedrooms": 9,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.798695,
+    "longitude": -79.41378,
+    "price": 2998000,
+    "lotAreaValue": 6125
+  },
+  {
+    "": 375,
+    "bathrooms": 3,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.735394,
+    "longitude": -79.537544,
+    "price": 1299000,
+    "lotAreaValue": 5690.1355
+  },
+  {
+    "": 376,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.684093,
+    "longitude": -79.51673,
+    "price": 649000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 377,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.651413,
+    "longitude": -79.44835,
+    "price": 1599000,
+    "lotAreaValue": 2100
+  },
+  {
+    "": 378,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.809937,
+    "longitude": -79.35899,
+    "price": 599900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 379,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.673553,
+    "longitude": -79.46187,
+    "price": 532000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 380,
+    "bathrooms": 1,
+    "bedrooms": 0,
+    "hometype": "CONDO",
+    "latitude": 43.641426,
+    "longitude": -79.401215,
+    "price": 450000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 381,
+    "bathrooms": 0,
+    "bedrooms": "",
+    "hometype": "CONDO",
+    "latitude": 43.647274,
+    "longitude": -79.39084,
+    "price": 39888,
+    "lotAreaValue": ""
+  },
+  {
+    "": 382,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.755356,
+    "longitude": -79.52199,
+    "price": 1088888,
+    "lotAreaValue": 3610.5069
+  },
+  {
+    "": 383,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.736763,
+    "longitude": -79.296875,
+    "price": 988000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 384,
+    "bathrooms": 4,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.66181,
+    "longitude": -79.35134,
+    "price": 1289000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 385,
+    "bathrooms": 4,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.79159,
+    "longitude": -79.1743,
+    "price": 1598900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 386,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.717995,
+    "longitude": -79.394775,
+    "price": 3300000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 387,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.68591,
+    "longitude": -79.274124,
+    "price": 849900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 388,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.65101,
+    "longitude": -79.36793,
+    "price": 579000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 389,
+    "bathrooms": 4,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.700405,
+    "longitude": -79.437355,
+    "price": 2280000,
+    "lotAreaValue": 5258
+  },
+  {
+    "": 390,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.641968,
+    "longitude": -79.412926,
+    "price": 829900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 391,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.706524,
+    "longitude": -79.39202,
+    "price": 1118000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 392,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.773167,
+    "longitude": -79.41544,
+    "price": 649000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 393,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.795806999999996,
+    "longitude": -79.32518,
+    "price": 699900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 394,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.643063,
+    "longitude": -79.42813,
+    "price": 939000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 395,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.79325,
+    "longitude": -79.237206,
+    "price": 799000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 396,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.66767,
+    "longitude": -79.38642,
+    "price": 779000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 397,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.652805,
+    "longitude": -79.35539,
+    "price": 899000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 398,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.80687,
+    "longitude": -79.265305,
+    "price": 515000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 399,
+    "bathrooms": 4,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.692413,
+    "longitude": -79.50682,
+    "price": 790000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 400,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.66509,
+    "longitude": -79.459694,
+    "price": 739000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 401,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.71481,
+    "longitude": -79.47988,
+    "price": 670000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 402,
+    "bathrooms": 2,
+    "bedrooms": 1,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.700756,
+    "longitude": -79.44387,
+    "price": 529900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 403,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.640057,
+    "longitude": -79.58135,
+    "price": 639000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 404,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.69245,
+    "longitude": -79.468414,
+    "price": 630000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 405,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.735962,
+    "longitude": -79.48376,
+    "price": 590000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 406,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.75108,
+    "longitude": -79.46573,
+    "price": 619900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 407,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.76141,
+    "longitude": -79.409805,
+    "price": 948800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 408,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.65278,
+    "longitude": -79.369026,
+    "price": 1079000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 409,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.69676,
+    "longitude": -79.39179,
+    "price": 875000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 410,
+    "bathrooms": 4,
+    "bedrooms": 4,
+    "hometype": "CONDO",
+    "latitude": 43.67126,
+    "longitude": -79.393906,
+    "price": 3300000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 411,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.732384,
+    "longitude": -79.44663,
+    "price": 899000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 412,
+    "bathrooms": 4,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.688377,
+    "longitude": -79.38971,
+    "price": 2149000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 413,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.648014,
+    "longitude": -79.39689,
+    "price": 649999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 414,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.643288,
+    "longitude": -79.42779,
+    "price": 749000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 415,
+    "bathrooms": 3,
+    "bedrooms": 2,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.71162,
+    "longitude": -79.395515,
+    "price": 1450000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 416,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.6632,
+    "longitude": -79.37777,
+    "price": 629900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 417,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.73276,
+    "longitude": -79.34566,
+    "price": 498000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 418,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.645428,
+    "longitude": -79.391075,
+    "price": 869900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 419,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.63531,
+    "longitude": -79.402084,
+    "price": 1198000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 420,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.70308,
+    "longitude": -79.252716,
+    "price": 539900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 421,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.772743,
+    "longitude": -79.45219,
+    "price": 739000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 422,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.643555,
+    "longitude": -79.37401,
+    "price": 1598000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 423,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.64738,
+    "longitude": -79.387276,
+    "price": 1719000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 424,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.64172,
+    "longitude": -79.3815,
+    "price": 799000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 425,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.779747,
+    "longitude": -79.418144,
+    "price": 694900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 426,
+    "bathrooms": 0,
+    "bedrooms": "",
+    "hometype": "CONDO",
+    "latitude": 43.7146,
+    "longitude": -79.35439,
+    "price": 54800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 427,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.6883,
+    "longitude": -79.397095,
+    "price": 1085000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 428,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.674786,
+    "longitude": -79.38513,
+    "price": 998000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 429,
+    "bathrooms": 1,
+    "bedrooms": 0,
+    "hometype": "CONDO",
+    "latitude": 43.657494,
+    "longitude": -79.374374,
+    "price": 459000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 430,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.651222,
+    "longitude": -79.36712,
+    "price": 949900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 431,
+    "bathrooms": 2,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.643948,
+    "longitude": -79.401474,
+    "price": 1049000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 432,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.661007,
+    "longitude": -79.36035,
+    "price": 649900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 433,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.64505,
+    "longitude": -79.398834,
+    "price": 599000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 434,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.639698,
+    "longitude": -79.40651,
+    "price": 809900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 435,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.747856,
+    "longitude": -79.28626,
+    "price": 550000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 436,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.777615,
+    "longitude": -79.414,
+    "price": 599000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 437,
+    "bathrooms": 3,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64905,
+    "longitude": -79.386154,
+    "price": 1849000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 438,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64292,
+    "longitude": -79.40184,
+    "price": 899000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 439,
+    "bathrooms": 4,
+    "bedrooms": 8,
+    "hometype": "MULTI_FAMILY",
+    "latitude": 43.63757,
+    "longitude": -79.48588,
+    "price": 2595000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 440,
+    "bathrooms": 4,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.681297,
+    "longitude": -79.52684,
+    "price": 2450000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 441,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.7687,
+    "longitude": -79.25147,
+    "price": 1038800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 442,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.693005,
+    "longitude": -79.261986,
+    "price": 979000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 443,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.75559,
+    "longitude": -79.31153,
+    "price": 1149900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 444,
+    "bathrooms": 7,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.759075,
+    "longitude": -79.39205,
+    "price": 6799000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 445,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.80539,
+    "longitude": -79.168335,
+    "price": 934900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 446,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.675976,
+    "longitude": -79.54946,
+    "price": 1898000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 447,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.605984,
+    "longitude": -79.55118,
+    "price": 1249000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 448,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.781143,
+    "longitude": -79.40023,
+    "price": 2198000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 449,
+    "bathrooms": 5,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.66978,
+    "longitude": -79.5177,
+    "price": 4798000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 450,
+    "bathrooms": 4,
+    "bedrooms": 4,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.704197,
+    "longitude": -79.49978,
+    "price": 1109900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 451,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.653107,
+    "longitude": -79.415146,
+    "price": 2250000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 452,
+    "bathrooms": 7,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.761864,
+    "longitude": -79.42034,
+    "price": 3099888,
+    "lotAreaValue": ""
+  },
+  {
+    "": 453,
+    "bathrooms": 4,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.646248,
+    "longitude": -79.41659,
+    "price": 2799999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 454,
+    "bathrooms": 5,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.7417,
+    "longitude": -79.40071,
+    "price": 5888000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 455,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.73428,
+    "longitude": -79.53438,
+    "price": 488888,
+    "lotAreaValue": ""
+  },
+  {
+    "": 456,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.656857,
+    "longitude": -79.38367,
+    "price": 799900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 457,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.64769,
+    "longitude": -79.39331,
+    "price": 619900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 458,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.67533,
+    "longitude": -79.397125,
+    "price": 849900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 459,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.74014,
+    "longitude": -79.34547,
+    "price": 899000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 460,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.775215,
+    "longitude": -79.413345,
+    "price": 679000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 461,
+    "bathrooms": 3,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.665577,
+    "longitude": -79.32544,
+    "price": 849000,
+    "lotAreaValue": 1850
+  },
+  {
+    "": 462,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.7247,
+    "longitude": -79.49769,
+    "price": 1288800,
+    "lotAreaValue": 7703
+  },
+  {
+    "": 463,
+    "bathrooms": 1,
+    "bedrooms": 0,
+    "hometype": "CONDO",
+    "latitude": 43.63698,
+    "longitude": -79.406075,
+    "price": 439999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 464,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.745815,
+    "longitude": -79.561554,
+    "price": 1250000,
+    "lotAreaValue": 9452.61
+  },
+  {
+    "": 465,
+    "bathrooms": 1,
+    "bedrooms": 0,
+    "hometype": "CONDO",
+    "latitude": 43.66059,
+    "longitude": -79.359344,
+    "price": 499900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 466,
+    "bathrooms": 3,
+    "bedrooms": 2,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.69186,
+    "longitude": -79.44077,
+    "price": 850000,
+    "lotAreaValue": 1711.6
+  },
+  {
+    "": 467,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.76661,
+    "longitude": -79.373535,
+    "price": 649990,
+    "lotAreaValue": ""
+  },
+  {
+    "": 468,
+    "bathrooms": 5,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.741356,
+    "longitude": -79.413956,
+    "price": 2595000,
+    "lotAreaValue": 5163.2508
+  },
+  {
+    "": 469,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.702187,
+    "longitude": -79.44082,
+    "price": 699998,
+    "lotAreaValue": ""
+  },
+  {
+    "": 470,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64738,
+    "longitude": -79.387276,
+    "price": 955000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 471,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.678986,
+    "longitude": -79.39806,
+    "price": 3300000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 472,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.677265,
+    "longitude": -79.40615,
+    "price": 1924900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 473,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.80805,
+    "longitude": -79.350464,
+    "price": 965000,
+    "lotAreaValue": 3600
+  },
+  {
+    "": 474,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.63423,
+    "longitude": -79.54093,
+    "price": 579900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 475,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64943,
+    "longitude": -79.38841,
+    "price": 849000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 476,
+    "bathrooms": 6,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.78944,
+    "longitude": -79.408646,
+    "price": 3288800,
+    "lotAreaValue": 5117.66
+  },
+  {
+    "": 477,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.645107,
+    "longitude": -79.36929,
+    "price": 829900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 478,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.672985,
+    "longitude": -79.38703,
+    "price": 799000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 479,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.714138,
+    "longitude": -79.49493,
+    "price": 1599000,
+    "lotAreaValue": 6364.2744
+  },
+  {
+    "": 480,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.71481,
+    "longitude": -79.47988,
+    "price": 459999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 481,
+    "bathrooms": 6,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.789326,
+    "longitude": -79.408585,
+    "price": 2998000,
+    "lotAreaValue": 5110.58
+  },
+  {
+    "": 482,
+    "bathrooms": 1,
+    "bedrooms": 0,
+    "hometype": "CONDO",
+    "latitude": 43.66178,
+    "longitude": -79.38422,
+    "price": 469900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 483,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.69597,
+    "longitude": -79.395775,
+    "price": 805000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 484,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.737877,
+    "longitude": -79.522995,
+    "price": 1048880,
+    "lotAreaValue": ""
+  },
+  {
+    "": 485,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.770267,
+    "longitude": -79.52974,
+    "price": 799000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 486,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.596233,
+    "longitude": -79.50438,
+    "price": 1149000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 487,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.620358,
+    "longitude": -79.497055,
+    "price": 1200000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 488,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.679466,
+    "longitude": -79.4311,
+    "price": 1889000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 489,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.680775,
+    "longitude": -79.32455,
+    "price": 1099990,
+    "lotAreaValue": ""
+  },
+  {
+    "": 490,
+    "bathrooms": 4,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.80635,
+    "longitude": -79.33062,
+    "price": 1338000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 491,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.644413,
+    "longitude": -79.48697,
+    "price": 2699999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 492,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.786373,
+    "longitude": -79.40787,
+    "price": 1799000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 493,
+    "bathrooms": 3,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.79156,
+    "longitude": -79.372185,
+    "price": 1499000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 494,
+    "bathrooms": 7,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.777596,
+    "longitude": -79.39175,
+    "price": 4998000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 495,
+    "bathrooms": 5,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.727974,
+    "longitude": -79.41665,
+    "price": 3088000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 496,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.686718,
+    "longitude": -79.43766,
+    "price": 798000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 497,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.693207,
+    "longitude": -79.263245,
+    "price": 849900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 498,
+    "bathrooms": 5,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.707516,
+    "longitude": -79.42787,
+    "price": 3099000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 499,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.691284,
+    "longitude": -79.29244,
+    "price": 974900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 500,
+    "bathrooms": 8,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.74462,
+    "longitude": -79.37635,
+    "price": 12288000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 501,
+    "bathrooms": 5,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.705814,
+    "longitude": -79.38669,
+    "price": 2899000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 502,
+    "bathrooms": 8,
+    "bedrooms": 6,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.722034,
+    "longitude": -79.39092,
+    "price": 10995000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 503,
+    "bathrooms": 4,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.79179,
+    "longitude": -79.243034,
+    "price": 888900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 504,
+    "bathrooms": 5,
+    "bedrooms": 5,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.70881,
+    "longitude": -79.4367,
+    "price": 3374000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 505,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.6752,
+    "longitude": -79.3342,
+    "price": 1390000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 506,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.673553,
+    "longitude": -79.46187,
+    "price": 670000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 507,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.622257,
+    "longitude": -79.48256,
+    "price": 749900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 508,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.624577,
+    "longitude": -79.511604,
+    "price": 495000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 509,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.642693,
+    "longitude": -79.52742,
+    "price": 899900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 510,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.693073,
+    "longitude": -79.50668,
+    "price": 668000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 511,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.673553,
+    "longitude": -79.46187,
+    "price": 997000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 512,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.673553,
+    "longitude": -79.46187,
+    "price": 599000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 513,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.75065,
+    "longitude": -79.46419,
+    "price": 610000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 514,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.601597,
+    "longitude": -79.510155,
+    "price": 499000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 515,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.77321,
+    "longitude": -79.345795,
+    "price": 599900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 516,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.655304,
+    "longitude": -79.35375,
+    "price": 749000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 517,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.732384,
+    "longitude": -79.44663,
+    "price": 639999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 518,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.63637,
+    "longitude": -79.40276,
+    "price": 1499000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 519,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64172,
+    "longitude": -79.3815,
+    "price": 669000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 520,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.645107,
+    "longitude": -79.36929,
+    "price": 598800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 521,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64769,
+    "longitude": -79.39331,
+    "price": 899900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 522,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.770107,
+    "longitude": -79.34006,
+    "price": 799900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 523,
+    "bathrooms": 3,
+    "bedrooms": 5,
+    "hometype": "CONDO",
+    "latitude": 43.67403,
+    "longitude": -79.39047,
+    "price": 2298000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 524,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.664238,
+    "longitude": -79.37554,
+    "price": 649000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 525,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "APARTMENT",
+    "latitude": 43.67919,
+    "longitude": -79.42541,
+    "price": 565000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 526,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.652588,
+    "longitude": -79.36769,
+    "price": 619900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 527,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.66551,
+    "longitude": -79.383026,
+    "price": 749000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 528,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.651863,
+    "longitude": -79.37601,
+    "price": 598000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 529,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.783382,
+    "longitude": -79.29487,
+    "price": 498888,
+    "lotAreaValue": ""
+  },
+  {
+    "": 530,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.72507,
+    "longitude": -79.328705,
+    "price": 829999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 531,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.665413,
+    "longitude": -79.387115,
+    "price": 659900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 532,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.67324,
+    "longitude": -79.38986,
+    "price": 1195000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 533,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.671684,
+    "longitude": -79.389565,
+    "price": 5999000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 534,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.640495,
+    "longitude": -79.38081,
+    "price": 725000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 535,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.710766,
+    "longitude": -79.39435,
+    "price": 679000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 536,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.646927,
+    "longitude": -79.374695,
+    "price": 814900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 537,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.650448,
+    "longitude": -79.38771,
+    "price": 699000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 538,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.768616,
+    "longitude": -79.38807,
+    "price": 679000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 539,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.7675,
+    "longitude": -79.28777,
+    "price": 788880,
+    "lotAreaValue": ""
+  },
+  {
+    "": 540,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.752384,
+    "longitude": -79.452415,
+    "price": 1148800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 541,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.686592,
+    "longitude": -79.40046,
+    "price": 1719000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 542,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.74287,
+    "longitude": -79.21185,
+    "price": 599000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 543,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.640995,
+    "longitude": -79.39457,
+    "price": 588000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 544,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.64172,
+    "longitude": -79.3815,
+    "price": 768000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 545,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.64905,
+    "longitude": -79.386154,
+    "price": 2388800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 546,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.621655,
+    "longitude": -79.483185,
+    "price": 769800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 547,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.71077,
+    "longitude": -79.33384,
+    "price": 459900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 548,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.656857,
+    "longitude": -79.38367,
+    "price": 748888,
+    "lotAreaValue": ""
+  },
+  {
+    "": 549,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.65033,
+    "longitude": -79.453415,
+    "price": 2099000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 550,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.70943,
+    "longitude": -79.36473,
+    "price": 635000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 551,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.666687,
+    "longitude": -79.37489,
+    "price": 649990,
+    "lotAreaValue": ""
+  },
+  {
+    "": 552,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.70028,
+    "longitude": -79.42781,
+    "price": 578000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 553,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.688927,
+    "longitude": -79.43747,
+    "price": 849900,
+    "lotAreaValue": 1995.3192
+  },
+  {
+    "": 554,
+    "bathrooms": 4,
+    "bedrooms": 3,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.602257,
+    "longitude": -79.544044,
+    "price": 1099000,
+    "lotAreaValue": 2610.8736
+  },
+  {
+    "": 555,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.78688,
+    "longitude": -79.41689,
+    "price": 720000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 556,
+    "bathrooms": 4,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.669407,
+    "longitude": -79.32387,
+    "price": 1649900,
+    "lotAreaValue": 2850
+  },
+  {
+    "": 557,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.663,
+    "longitude": -79.326485,
+    "price": 3697000,
+    "lotAreaValue": 2842.5
+  },
+  {
+    "": 558,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.757183,
+    "longitude": -79.413956,
+    "price": 2050000,
+    "lotAreaValue": 6501.3985
+  },
+  {
+    "": 559,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.690178,
+    "longitude": -79.402245,
+    "price": 999000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 560,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.62394,
+    "longitude": -79.48845,
+    "price": 817500,
+    "lotAreaValue": ""
+  },
+  {
+    "": 561,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.671852,
+    "longitude": -79.40222,
+    "price": 749900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 562,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.800713,
+    "longitude": -79.31704,
+    "price": 910000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 563,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64896,
+    "longitude": -79.39258,
+    "price": 809000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 564,
+    "bathrooms": 4,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.707184,
+    "longitude": -79.40274,
+    "price": 2499000,
+    "lotAreaValue": 3070.6875
+  },
+  {
+    "": 565,
+    "bathrooms": 4,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.70497,
+    "longitude": -79.39401,
+    "price": 1399000,
+    "lotAreaValue": 2961.6
+  },
+  {
+    "": 566,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.65655,
+    "longitude": -79.35748,
+    "price": 759000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 567,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.657425,
+    "longitude": -79.423096,
+    "price": 1679000,
+    "lotAreaValue": 2072.0007
+  },
+  {
+    "": 568,
+    "bathrooms": 2,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.70114,
+    "longitude": -79.37362,
+    "price": 994900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 569,
+    "bathrooms": 2,
+    "bedrooms": 5,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.81143,
+    "longitude": -79.27817,
+    "price": 729000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 570,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "TOWNHOUSE",
+    "latitude": 43.7789,
+    "longitude": -79.28349,
+    "price": 889000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 571,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64171,
+    "longitude": -79.371704,
+    "price": 859000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 572,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.70521,
+    "longitude": -79.4824,
+    "price": 1235000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 573,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.65572,
+    "longitude": -79.45745,
+    "price": 1257990,
+    "lotAreaValue": ""
+  },
+  {
+    "": 574,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.768585,
+    "longitude": -79.38143,
+    "price": 1049000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 575,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.77653,
+    "longitude": -79.412445,
+    "price": 888000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 576,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.8078,
+    "longitude": -79.265396,
+    "price": 635000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 577,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.76028,
+    "longitude": -79.41113,
+    "price": 699900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 578,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.763954,
+    "longitude": -79.40698,
+    "price": 725000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 579,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.620712,
+    "longitude": -79.48328,
+    "price": 719900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 580,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.78188,
+    "longitude": -79.24639,
+    "price": 599900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 581,
+    "bathrooms": 8,
+    "bedrooms": 8,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.663578,
+    "longitude": -79.56141,
+    "price": 2499000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 582,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.76005,
+    "longitude": -79.40747,
+    "price": 648888,
+    "lotAreaValue": ""
+  },
+  {
+    "": 583,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.722935,
+    "longitude": -79.41387,
+    "price": 674900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 584,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.763954,
+    "longitude": -79.40698,
+    "price": 919000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 585,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.776325,
+    "longitude": -79.41403,
+    "price": 799000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 586,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.674294,
+    "longitude": -79.45835,
+    "price": 674900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 587,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.77634,
+    "longitude": -79.3169,
+    "price": 570000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 588,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.63836,
+    "longitude": -79.39866,
+    "price": 599000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 589,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.652763,
+    "longitude": -79.36657,
+    "price": 749000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 590,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.621624,
+    "longitude": -79.52248,
+    "price": 485000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 591,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.719334,
+    "longitude": -79.33631,
+    "price": 554900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 592,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.70606,
+    "longitude": -79.397766,
+    "price": 649000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 593,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.76661,
+    "longitude": -79.373535,
+    "price": 680000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 594,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.788223,
+    "longitude": -79.39043,
+    "price": 599000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 595,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.67654,
+    "longitude": -79.40561,
+    "price": 578000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 596,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.645805,
+    "longitude": -79.39205,
+    "price": 880000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 597,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.687073,
+    "longitude": -79.30597,
+    "price": 929000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 598,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.6802,
+    "longitude": -79.562035,
+    "price": 975000,
+    "lotAreaValue": 3614.875
+  },
+  {
+    "": 599,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.672985,
+    "longitude": -79.38703,
+    "price": 995500,
+    "lotAreaValue": ""
+  },
+  {
+    "": 600,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.64552,
+    "longitude": -79.36875,
+    "price": 649900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 601,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.77858,
+    "longitude": -79.28117,
+    "price": 629800,
+    "lotAreaValue": ""
+  },
+  {
+    "": 602,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.651676,
+    "longitude": -79.37693,
+    "price": 1210000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 603,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.76432,
+    "longitude": -79.41373,
+    "price": 1098888,
+    "lotAreaValue": ""
+  },
+  {
+    "": 604,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.696514,
+    "longitude": -79.395454,
+    "price": 1048000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 605,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.75829,
+    "longitude": -79.586395,
+    "price": 524900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 606,
+    "bathrooms": 2,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.6693,
+    "longitude": -79.38417,
+    "price": 720000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 607,
+    "bathrooms": 0,
+    "bedrooms": "",
+    "hometype": "LOT",
+    "latitude": 43.722893,
+    "longitude": -79.24544,
+    "price": 799000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 608,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.687073,
+    "longitude": -79.30597,
+    "price": 599999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 609,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "hometype": "CONDO",
+    "latitude": 43.638775,
+    "longitude": -79.41631,
+    "price": 579900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 610,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "CONDO",
+    "latitude": 43.655865,
+    "longitude": -79.5706,
+    "price": 639900,
+    "lotAreaValue": ""
+  },
+  {
+    "": 611,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.64172,
+    "longitude": -79.3815,
+    "price": 909000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 612,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "hometype": "CONDO",
+    "latitude": 43.703022,
+    "longitude": -79.39582,
+    "price": 899000,
+    "lotAreaValue": ""
+  },
+  {
+    "": 613,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "hometype": "CONDO",
+    "latitude": 43.646015,
+    "longitude": -79.394066,
+    "price": 739999,
+    "lotAreaValue": ""
+  },
+  {
+    "": 614,
+    "bathrooms": 2,
+    "bedrooms": 4,
+    "hometype": "SINGLE_FAMILY",
+    "latitude": 43.614063,
+    "longitude": -79.49536,
+    "price": 1075000,
+    "lotAreaValue": 5337.5
+  }
+]
