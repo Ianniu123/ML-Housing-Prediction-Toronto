@@ -5,6 +5,7 @@ Implemented using scikit-learn, numpy, matplotlib
 Project Layout:
 
 Backend - django + sklearn 
+
 Frontend - JavaScript + react
 
 Step 1: Data Collection (RapidApi)
