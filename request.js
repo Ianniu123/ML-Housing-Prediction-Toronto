@@ -48,7 +48,7 @@ try {
 
     const json = JSON.stringify(modifiedDatas);
 
-    fs.appendFile("data.json", json, (error) => {
+    fs.appendFile("modifiedData.json", json, (error) => {
         if (error) {
             console.log(error);
             throw error;
